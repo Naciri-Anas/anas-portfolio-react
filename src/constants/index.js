@@ -3,9 +3,13 @@ import project2 from "../assets/projects/project-2.jpg";
 import project3 from "../assets/projects/project-3.jpg";
 import project4 from "../assets/projects/project-4.jpg";
 
-export const HERO_CONTENT = `I am a passionate full stack developer with a knack for crafting robust and scalable web applications. With 5 years of hands-on experience, I have honed my skills in front-end technologies like React and Next.js, as well as back-end technologies like Node.js, MySQL, PostgreSQL, and MongoDB. My goal is to leverage my expertise to create innovative solutions that drive business growth and deliver exceptional user experiences.`;
+export const HERO_CONTENT = `A passionate computer engineer, I possess strong skills in full-stack development and a great motivation for technological innovation. My journey has allowed me to explore various aspects of software development, and I am excited about contributing to ambitious projects.`;
 
-export const ABOUT_TEXT = `I am a dedicated and versatile full stack developer with a passion for creating efficient and user-friendly web applications. With 5 years of professional experience, I have worked with a variety of technologies, including React, Next.js, Node.js, MySQL, PostgreSQL, and MongoDB. My journey in web development began with a deep curiosity for how things work, and it has evolved into a career where I continuously strive to learn and adapt to new challenges. I thrive in collaborative environments and enjoy solving complex problems to deliver high-quality solutions. Outside of coding, I enjoy staying active, exploring new technologies, and contributing to open-source projects.`;
+export const ABOUT_TEXT = `I am a junior software engineer, recently graduated, with 5 years of academic experience where I developed numerous projects. During my studies, I also freelanced for a startup, focusing on fixing bugs for a mobile app.
+
+I am a dedicated and versatile full-stack developer with a passion for creating efficient and user-friendly web applications. My journey in web development began with a deep curiosity for how things work, and it has evolved into a career where I continuously strive to learn and adapt to new challenges. I have experience working with various technologies, including React, Next.js, Node.js, MySQL,Java, PostgreSQL, and MongoDB.
+
+I thrive in collaborative environments, enjoy solving complex problems, and am committed to delivering high-quality solutions. Outside of coding, I stay active, explore new technologies, and contribute to open-source projects.`;
 
 export const EXPERIENCES = [
   {
@@ -70,7 +74,6 @@ export const PROJECTS = [
 ];
 
 export const CONTACT = {
-  address: "767 Fifth Avenue, New York, NY 10153 ",
-  phoneNo: "+12 4555 666 00 ",
-  email: "me@example.com",
+  address: "Marrakech 40000 ",
+  email: "anasnaciridev@gmail.com",
 };
