@@ -13,33 +13,37 @@ I thrive in collaborative environments, enjoy solving complex problems, and am c
 
 export const EXPERIENCES = [
   {
-    year: "2023 - Present",
-    role: "Senior Full Stack Developer",
-    company: "Google Inc.",
-    description: `Led a team in developing and maintaining web applications using JavaScript, React.js, and Node.js. Implemented RESTful APIs and integrated with MongoDB databases. Collaborated with stakeholders to define project requirements and timelines.`,
-    technologies: ["Javascript", "React.js", "Next.js", "mongoDB"],
+    year: "March 2024 - July 2024",
+    role: "Mobile Developer",
+    company: "Boostifly-LTD",
+    description: `
+Active participation in the development of the application architecture in collaboration with the BOOSTIFLY LTD team, using Flutter for mobile development.
+Proposed new features to enhance user experience, such as customizable notifications and the integration of personalized health advice.
+Close collaboration with the backend developer to ensure smooth integration of APIs and databases.
+Used the Scrum methodology for project management, with regular meetings to ensure adherence to project timelines and objectives.
+Strengthened communication between design, development, and management teams to ensure a clear understanding of the application's needs and objectives.`,
+    technologies: ["Flutter", "Firebase", "Nest.js"],
   },
   {
-    year: "2022 - 2023",
-    role: "Frontend Developer",
-    company: "Adobe",
-    description: `Designed and developed user interfaces for web applications using Next.js and React. Worked closely with backend developers to integrate frontend components with Node.js APIs. Implemented responsive designs and optimized frontend performance.`,
-    technologies: ["HTML", "CSS", "Vue.js", "mySQL"],
+    year: "July 2023 - September 2023",
+    role: "Fulll Stack Developer",
+    company: "Tawjeeh",
+    description: `Development of a web application aimed at guiding high school students towards appropriate higher education institutions, with a focus on the various fields available in Morocco.  
+Active participation in the development of the application architecture in collaboration with the Tawjeeh team, using Django, HTML/CSS, JavaScript, and PHP.  
+Contribution to innovation by proposing new features to enhance user experience and platform efficiency.  
+Strengthened communication between technical and non-technical teams to ensure a clear understanding of the application's needs and objectives.`,
+    technologies: ["HTML", "CSS", "Javascript", "Djnago","Python","Php"],
   },
   {
-    year: "2021 - 2022",
+    year: "July 2022 - September 2022",
     role: "Full Stack Developer",
-    company: "Facebook",
-    description: `Developed and maintained web applications using JavaScript, React.js, and Node.js. Designed and implemented RESTful APIs for data communication. Collaborated with cross-functional teams to deliver high-quality software products on schedule.`,
-    technologies: ["Python", "Svelte", "Three.js", "Postgres"],
+    company:"Organisme Régional de Mise en Valeur Agricole de l'Oriental",
+    description: `Development of a web application for employees of L'Office, allowing them to take online training in various fields such as IT and communication.
+Active participation in the development of the application architecture in collaboration with the L'Office team, using React, HTML/CSS, and MongoDB.
+Contribution to innovation by proposing new features to enhance user experience and platform efficiency.`,
+    technologies: ["Html", "Css", "Javascript", "React","MongoDb"],
   },
-  {
-    year: "2020 - 2021",
-    role: "Software Engineer",
-    company: "Paypal",
-    description: `Contributed to the development of web applications using JavaScript, React.js, and Node.js. Managed databases and implemented data storage solutions using MongoDB. Worked closely with product managers to prioritize features and enhancements.`,
-    technologies: ["Ruby", "Rails", "PHP", "Sqlite"],
-  },
+  
 ];
 
 export const PROJECTS = [

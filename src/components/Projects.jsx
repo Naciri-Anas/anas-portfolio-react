@@ -15,6 +15,7 @@ const Projects = () => {
         height={150} 
         alt={project.title} 
         className="mb-6 rounded transition-transform duration-300 transform hover:scale-105 hover:shadow-lg"
+        
     />
 </div>
 
