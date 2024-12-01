@@ -9,7 +9,12 @@ const Contact = () => {
             {CONTACT.address}
         </p>
         
-        <a href="https://mail.google.com/" className="border-b">{CONTACT.email}</a>
+        <a 
+  href={`mailto:${CONTACT.email}`} 
+  className="border-b"
+>
+  Contact Me
+</a>
     </div>
       
     </div>
