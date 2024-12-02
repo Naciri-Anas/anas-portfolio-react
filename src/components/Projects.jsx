@@ -8,7 +8,7 @@ const Projects = () => {
         {PROJECTS.map((project, index) => (
           <div
             key={index}
-            className="p-6 rounded-lg shadow-md transition-transform duration-300 transform hover:scale-105"
+            className="p-6 rounded-lg shadow-md transition-transform duration-300 transform hover:scale-105 border border-neutral-900 hover:border-white"
           >
             {/* Title and Icons Row */}
             <div className="flex items-center justify-between mb-4">

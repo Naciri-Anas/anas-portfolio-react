@@ -1,7 +1,4 @@
-import project1 from "../assets/projects/project-1.jpg";
-import project2 from "../assets/projects/project-2.jpg";
-import project3 from "../assets/projects/project-3.jpg";
-import project4 from "../assets/projects/project-4.jpg";
+
 
 export const HERO_CONTENT = `A passionate computer engineer, I possess strong skills in full-stack development and a great motivation for technological innovation. My journey has allowed me to explore various aspects of software development, and I am excited about contributing to ambitious projects.`;
 
@@ -49,33 +46,48 @@ Contribution to innovation by proposing new features to enhance user experience 
 export const PROJECTS = [
   {
     title: "Real-Time Chat Application",
-    image: project1,
+ 
     description:
       "This is a real-time chat application built using React.js, designed to provide users with a seamless and modern messaging experience. The application is equipped with key features like instant message exchange, user-friendly UI, and responsiveness, making it suitable for desktop and mobile devices.",
     technologies: ["JavaScript (ES6+)", "Backend", "React.js", "Css"],
     github: "https://github.com/Naciri-Anas/anas-reactjs-chat.git",
   },
   {
-    title: "Task Management App",
-    image: project2,
+    title: "TAWJEEH-CONSULTING",
+    
     description:
-      "An application for managing tasks and projects, with features such as task creation, assignment, and progress tracking.",
-    technologies: ["HTML", "CSS", "Angular", "Firebase"],
+      "Tawjeeh Consulting is a web application developed to assist Moroccan high school students in exploring and selecting appropriate higher education paths. The platform provides valuable resources and tools for career orientation, allowing users to browse available fields of study, institutions, and career options in Morocco. Its goal is to simplify the decision-making process for students by offering personalized recommendations and detailed information.",
+    technologies: ["HTML", "CSS", "JavaScript", "Django","PHP"],
+    github:"https://github.com/Naciri-Anas/TAWJEEH-CONSULTING.git",
   },
   {
-    title: "Portfolio Website",
-    image: project3,
+    title: "Maroc Uber",
+    
     description:
-      "A personal portfolio website showcasing projects, skills, and contact information.",
-    technologies: ["HTML", "CSS", "React", "Bootstrap"],
+      "Maroc Uber is a ride-hailing application developed by me and my colleague in class to provide users with a seamless and convenient way to book rides in Morocco. The platform connects passengers with nearby drivers, allowing them to easily request rides, track their journeys, and pay for services. The app is designed to enhance mobility in Moroccan cities by offering an affordable, reliable, and user-friendly transportation option.",
+    technologies: ["Flutter", " Firebase"],
+    github:"https://github.com/Naciri-Anas/maroc_uber.git"
   },
   {
-    title: "Blogging Platform",
-    image: project4,
+    title: "Snake Game",
     description:
-      "A platform for creating and publishing blog posts, with features like rich text editing, commenting, and user profiles.",
-    technologies: ["HTML", "CSS", "Vue.js", "Express", "mySQL"],
+      "SnakeGame is a classic implementation of the popular Snake game, where players control a snake that grows longer as it eats food, while avoiding collisions with the walls and its own tail. This game is designed to challenge the player's reflexes and strategic thinking as they try to achieve the highest score possible. Developed with basic programming concepts, it offers a fun and interactive experience for players of all ages.",
+    technologies: ["java"],
+    github:"https://github.com/Naciri-Anas/SnakeGame.git"
   },
+
+  {
+    title:"LifeIng",
+    description:"The LIFEING app is designed specifically for women to track and manage their pregnancy journey. It offers features such as weekly pregnancy progress tracking, providing personalized insights and health recommendations tailored to each stage of pregnancy. The app includes tools to monitor important milestones, track symptoms, and maintain overall well-being throughout the pregnancy period. LIFEING aims to empower women with the knowledge and support they need during this significant time in their lives, ensuring a healthy and informed pregnancy experience",
+    technologies:["Flutter","NestJs","Postman"],
+    github:"",
+  },
+  {
+    title:"Corto",
+    description:"The Corto app is a mobile application developed using Flutter as part of a freelance project. It is designed to provide users with a seamless experience for managing and organizing their personal tasks, notes, reminders, and coupons. The app features a clean, user-friendly interface and integrates advanced functionalities like secure note storage with password protection. Additionally, Corto offers a chat-like interface for interacting with saved notes, a Gmail login feature, and local storage to retain data across app restarts. The app also includes a coupon management system, allowing users to save, view, and manage their coupons effortlessly. Corto emphasizes user privacy and convenience, making it easy for users to keep track of their important information securely.",
+    technologies:["Flutter","Firebase"],
+    github:"https://github.com/Naciri-Anas/corto_flutter.git",
+  }
 ];
 
 export const CONTACT = {
