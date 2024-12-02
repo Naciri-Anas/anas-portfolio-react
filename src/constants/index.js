@@ -48,11 +48,12 @@ Contribution to innovation by proposing new features to enhance user experience 
 
 export const PROJECTS = [
   {
-    title: "E-Commerce Website",
+    title: "Real-Time Chat Application",
     image: project1,
     description:
-      "A fully functional e-commerce website with features like product listing, shopping cart, and user authentication.",
-    technologies: ["HTML", "CSS", "React", "Node.js", "MongoDB"],
+      "This is a real-time chat application built using React.js, designed to provide users with a seamless and modern messaging experience. The application is equipped with key features like instant message exchange, user-friendly UI, and responsiveness, making it suitable for desktop and mobile devices.",
+    technologies: ["JavaScript (ES6+)", "Backend", "React.js", "Css"],
+    github: "https://github.com/Naciri-Anas/anas-reactjs-chat.git",
   },
   {
     title: "Task Management App",
