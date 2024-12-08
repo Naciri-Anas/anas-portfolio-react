@@ -4,7 +4,7 @@ export const HERO_CONTENT = `A passionate computer engineer, I possess strong sk
 
 export const ABOUT_TEXT = `I am a junior software engineer, recently graduated, with 5 years of academic experience where I developed numerous projects. During my studies, I also freelanced for a startup, focusing on fixing bugs for a mobile app.
 
-I am a dedicated and versatile full-stack developer with a passion for creating efficient and user-friendly web applications. My journey in web development began with a deep curiosity for how things work, and it has evolved into a career where I continuously strive to learn and adapt to new challenges. I have experience working with various technologies, including React, Next.js, Node.js, MySQL,Java, PostgreSQL, and MongoDB.
+I am a dedicated and versatile full-stack developer with a passion for creating efficient and user-friendly web applications. My journey in web development began with a deep curiosity for how things work, and it has evolved into a career where I continuously strive to learn and adapt to new challenges. I have experience working with various technologies, including React, Next.js, Node.js, MySQL,Java, PostgreSQL, Flutter, and MongoDB.
 
 I thrive in collaborative environments, enjoy solving complex problems, and am committed to delivering high-quality solutions. Outside of coding, I stay active, explore new technologies, and contribute to open-source projects.`;
 
@@ -34,8 +34,8 @@ Strengthened communication between technical and non-technical teams to ensure a
   {
     year: "July 2022 - September 2022",
     role: "Full Stack Developer",
-    company:"Organisme Régional de Mise en Valeur Agricole de l'Oriental",
-    description: `Development of a web application for employees of L'Office, allowing them to take online training in various fields such as IT and communication.
+    company:"Regional agricultural development organization of the Orient",
+    description: `Development of a web application for employees of the office , allowing them to take online training in various fields such as IT and communication.
 Active participation in the development of the application architecture in collaboration with the L'Office team, using React, HTML/CSS, and MongoDB.
 Contribution to innovation by proposing new features to enhance user experience and platform efficiency.`,
     technologies: ["Html", "Css", "Javascript", "React","MongoDb"],
