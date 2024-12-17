@@ -87,6 +87,12 @@ export const PROJECTS = [
     description:"The Corto app is a mobile application developed using Flutter as part of a freelance project. It is designed to provide users with a seamless experience for managing and organizing their personal tasks, notes, reminders, and coupons. The app features a clean, user-friendly interface and integrates advanced functionalities like secure note storage with password protection. Additionally, Corto offers a chat-like interface for interacting with saved notes, a Gmail login feature, and local storage to retain data across app restarts. The app also includes a coupon management system, allowing users to save, view, and manage their coupons effortlessly. Corto emphasizes user privacy and convenience, making it easy for users to keep track of their important information securely.",
     technologies:["Flutter","Firebase"],
     github:"https://github.com/Naciri-Anas/corto_flutter.git",
+  },
+  {
+    title:"Qrcode Generator App",
+    description:"The QR Code Generator app is a lightweight and user-friendly application designed to create custom QR codes effortlessly. Built with Flutter, this app allows users to generate QR codes for websites, text, or any data input instantly. With a sleek and intuitive interface, it ensures a smooth user experience while maintaining high performance across multiple platforms.",
+    technologies:["Flutter"],
+    github:"https://github.com/Naciri-Anas/qr_code_generator_app.git"
   }
 ];
 
